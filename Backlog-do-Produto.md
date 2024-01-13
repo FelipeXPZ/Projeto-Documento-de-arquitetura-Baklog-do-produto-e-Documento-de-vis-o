@@ -27,4 +27,4 @@ VALOR AGREGADO
 * Valor Agregado
 * O usuário diretor/secretário conseguirá realizar ações básicas(cadastrar, excluir, editar e consultar) nos módulos de turmas, disciplinas, alunos e professores.
 * O usuário aluno conseguirá visualizar seu boletim.                                                                                                      
-![Visualização de boletim 2024-01-13 à(s) 06 21 27_f18bcec7](https://github.com/FelipeXPZ/Projeto-aps/assets/144725344/bbf18d91-88ef-412e-ae34-64bef4b59a5f)
+![Visualização de boletim 2024-01-13 à(s) 06 21 27_f18bcec7](https://github.com/FelipeXPZ/Projeto-aps/assets/144725344/0aaf44f8-33ac-4dfe-ad0c-49f577b0ce41)
