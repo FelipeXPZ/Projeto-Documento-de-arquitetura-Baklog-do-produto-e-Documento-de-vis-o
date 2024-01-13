@@ -1,4 +1,4 @@
-# HISTRÓIA DO USUÁRIO
+# HISTÓRIA DO USUÁRIO
 | Identificador | Historia | Pontuação
 | --- | --- | --- | 
 | US01 | Como vigilante, busco manter-me informado sobre a pessoa que está atualmente com a chave. | 0
