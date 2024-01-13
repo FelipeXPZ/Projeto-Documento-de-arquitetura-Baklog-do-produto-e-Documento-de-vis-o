@@ -26,9 +26,10 @@ O software, a ser implementado, deve monitorar a presença e atividades escolare
 | Implementação de sistemas para facilitar a distribuição de chaves aos alunos, mediante autorização do professor |
 
 # 2.Estrutura
-# 2.1 Oportunidade de Negócios
+# 2.1 Oportunidade de negócios
 A oportunidade de negócios reside na necessidade de redefinir a forma como o controle e a gestão da vida acadêmica dos docentes são conduzidos, especialmente nas escolas públicas. A inadequação do sistema atual é evidente devido a um controle rudimentar, muitas vezes ineficiente, que não atende plenamente às demandas das coordenações. A falta de um sistema robusto compromete a precisão e atualização dos dados, resultando em dificuldades para informar adequadamente os responsáveis e prejudicando a eficiência geral do processo acadêmico. Nesse contexto, há uma clara oportunidade de negócio para desenvolver uma solução mais moderna e eficaz que atenda às necessidades específicas das coordenações escolares.
-Nosso projeto visa solucionar este problema por meio da informatização do sistema de identificação dos alunos e notificação dos pais.      
+Nosso projeto visa solucionar este problema por meio da informatização do sistema de identificação dos alunos e notificação dos pais.
+
 # 2.2 Principais desafios Identificados
 Desafios 
 Falta de um sistema eficiente para facilitar a entrega de chaves aos alunos com autorização do professor
@@ -38,13 +39,14 @@ Necessidade de arrebentar a porta em caso de perda da chave, impactando negativa
 Possibilidade de perder tanto a chave principal quanto a reserva, aumentando a complexidade do problema
 Dificuldade em rastrear responsabilidades, especialmente quando outros servidores possuem cópias das chaves, o que pode resultar em situações de falta ou danos em salas sem identificação do responsáve
 
-Descrições da Parte Interessada e do Usuário
+# Descrições da Parte Interessada e do Usuário
+
 # 3.1 Perfil Resumido da Parte Interessada
 Nome	Descrição	Responsabilidade
 Equipe de Desenvolvimento	Estudantes da Universidade de Brasília na disciplina de MDS.	Desenvolver e Implementar o software.
 Equipe de Gestão de Projeto	Estudantes da Universidade de Brasília na disciplina de GPP.	Gerir o desenvolvimento do produto, identificando problemas e propondo soluções.
-
 Clientes	Centro de Ensino Médio 01 do Gama.	Fornecer informações sobre os alunos.
+
 # 3.2 Principais Necessidades da Parte Interessada
 Necessidades	Prioridade	Interesses	Solução Atual	Solução Proposta
 Gerenciar a vida acadêmica dos alunos.	Alta	Manter controle diário de entrada/saída e atividades acadêmicas dos alunos.	Método manual e ineficiente, usando também o aplicativo Acadêmicos Total Pais e Filhos.	Implementar um software mais confiável para gerenciar eficientemente a vida acadêmica dos alunos.
