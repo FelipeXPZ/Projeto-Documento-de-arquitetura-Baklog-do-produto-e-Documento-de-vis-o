@@ -1,21 +1,21 @@
+# HISTRÓIA DO USUÁRIO
+| Identificador | Historia | Pontuação
+| --- | --- | --- | 
+| US01 | Como vigilante, busco manter-me informado sobre a pessoa que está atualmente com a chave. | 0
+| US02 | Como vigilante, desejo implementar disciplinas para melhor gerenciar a organização das chaves em cada bloco. | 0
+| US03 | Funcionário da escola, quero a capacidade de consultar informações sobre alunos para visualizar o controle de chaves. | 0
+| US04 | Diretor, desejo manter os professores informados para uma administração mais eficaz das chaves. | 0
+| US05 | Aluno, almejo obter um cargo de monitor para ter posse das chaves. | 0
+| US06 | Servidor, quero ter conhecimento sobre a troca de usos das chaves. | 0
+| US07 | Secretário, desejo poder visualizar corretamente quem está responsável pelo controle das chaves. | 0
+| US08 | Vigilante, desejo registrar a pessoa que está atualmente com a chave. | 0
+| US09 | Vigilante, desejo registrar qualquer ocorrência em caso de imprevistos relacionados às chaves. | 0
 
- HISTÓRIA DO USUÁRIO
-Identificador	História	Pontuação
-US01	Eu, como vigilante, desejo registrar quem está com a chave para manter informação atualizada.	0
-US02	Eu, como vigilante, desejo estabelecer disciplinas para organizar a gestão das chaves em cada bloco.	0
-US03	Eu, como funcionário da escola, desejo acessar informações sobre alunos para visualizar o controle de chaves.	0
-US04	Eu, como diretor, desejo manter os professores informados para aprimorar a administração das chaves.	0
-US05	Eu, aluno, desejo ser designado como monitor para a responsabilidade das chaves.	0
-US06	Eu, servidor, desejo acompanhar a movimentação das chaves para fins de controle.	0
-US07	Eu, como secretário, desejo visualizar corretamente quem está responsável pelo controle das chaves.	0
-US08	Eu, como vigilante, desejo registrar quem está portando a chave no momento.	0
-US09	Eu, como vigilante, desejo registrar ocorrências em caso de imprevistos relacionados às chaves.	0
-PLANEJAMENTO DA RELEASE
-Release 01 - Gestão de Chaves
-Data Início: xx-xx-2022.
-Data Fim: xx-xx-2022.
-HISTÓRIAS
-US01 - Gestão de Chaves
+# Planejamento da Release
+
+* **Release 01 - Melhorias no Controle de Acessos**
+  * **Data Início:** xx-xx-2022.
+  * **Data Fim:** xx-xx-2022.
 
 Manter turmas
 Manter disciplinas
