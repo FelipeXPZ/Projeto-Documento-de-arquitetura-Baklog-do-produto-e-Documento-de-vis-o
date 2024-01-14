@@ -6,7 +6,7 @@ Este documento investiga os pontos de vista especificos de um diagrama, destacan
 Este documento aborda como principal finalidade a implementação do projeto de controle de chaves, desenvolvido na disciplina de Análise e Projeto de Sistemas, com a direção da escola IFPI - Campus Angical como principal cliente. A importância aqui é proporcionar uma visão clara e conclusiva do sistema, buscando uma implementação mais eficiente, segura e satisfatória. O objetivo final é garantir uma experiência aprimorada para todos os envolvidos no controle de chaves da escola.
 
 # 1.2 Escopo
-O diagrama de controle de chaves abaixo oferece uma visão organizada e abrangente do sistema,ele demostra como o sistema gerencia o acesso e a posse de chaves em um ambiente específico. Ele ilustra mecanismos de segurança, como autenticação e autorização, além de evidenciar a integração entre as diferentes camadas do sistema. Essa representação proporciona uma melhor compreensão da funcionalidade de sistema e do controle de chaves.
+O diagrama de controle de chaves abaixo oferece uma visão organizada e abrangente do sistema,ele demostra como o sistema gerencia o acesso e a posse de chaves em um ambiente específico. Ele também ilustra o mecanismos de segurança, como autenticação e autorização, além de evidenciar a integração entre as diferentes camadas do sistema. Essa representação proporciona uma melhor compreensão da funcionalidade de sistema e do controle de chaves.
 
 # 2. Visão dos casos de uso
 ![Imagem 2024-01-12 à(s) 23 33 21_80aa049a](https://github.com/FelipeXPZ/documento-de-visao./assets/144725344/8dd756cd-7007-4754-8adb-683205c5931d)
