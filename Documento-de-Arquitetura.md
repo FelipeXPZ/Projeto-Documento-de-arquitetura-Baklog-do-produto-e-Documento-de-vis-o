@@ -1,12 +1,12 @@
 # 1. Introdução
-Bom, agora vamos adentrar nas camadas do diagrama de controle de chaves, revelando oque há por trás da gestão inteligente de acessos e compartilhando saberes e ajudando para que haja a edificação de ambientes mais seguros e mais bem organizados  .
-Ao longo deste documento, não apenas desvendaremos os aspectos técnicos do diagrama, mas também destacaremos seu impacto tangível em cenários do dia a dia. Seja você um desenvolvedor em busca de perspicácia para implementar um sistema eficiente, ou um gestor dedicado buscando à segurança do local ou um usuário final imerso nas operações diárias, esta etapa busca proporcionar uma melhor compreensão do controle de chaves e sua crescente importância.
+Bom, agora iremos adentrar nas camadas do diagrama de controle de chaves, revelando oque há por trás da gestão perspicaz de comunicações e repassando saberes mais também ajudando para que haja a edificação de ambientes mais seguros e mais bem organizados.
+Este documento investiga os pontos de vista especificos de um diagrama, destacando seu impacto prático em situações do cotidiano. Seja para desenvolvedores, gestores de segurança ou usuários comuns, queremos tornar o conhecimento do controle de chaves e sua importância cada vez maior e mais acessível.
 
 # 1.1 Finalidade
-Este documento aborda a implementação do projeto de controle de chaves, desenvolvido na disciplina de Análise e Projeto de Sistemas, com a direção da escola IFPI - Campus Angical como principal cliente. A importância aqui é proporcionar uma visão clara e conclusiva do sistema, buscando uma implementação mais eficiente, segura e satisfatória. O objetivo final é garantir uma experiência aprimorada para todos os envolvidos no controle de chaves da escola.
+Este documento aborda como principal finalidade a implementação do projeto de controle de chaves, desenvolvido na disciplina de Análise e Projeto de Sistemas, com a direção da escola IFPI - Campus Angical como principal cliente. A importância aqui é proporcionar uma visão clara e conclusiva do sistema, buscando uma implementação mais eficiente, segura e satisfatória. O objetivo final é garantir uma experiência aprimorada para todos os envolvidos no controle de chaves da escola.
 
 # 1.2 Escopo
-O diagrama de controle de chaves abaixo oferece uma visão organizada e abrangente do sistema,ele demostra como o sistema gerencia o acesso e a posse de chaves em um ambiente específico. Ele ilustra mecanismos de segurança, como autenticação e autorização, além de evidenciar a integração entre diferentes camadas do sistema. Essa representação proporciona uma melhor compreensão da funcionalidade de sistema e do controle de chaves.
+O diagrama de controle de chaves abaixo oferece uma visão organizada e abrangente do sistema,ele demostra como o sistema gerencia o acesso e a posse de chaves em um ambiente específico. Ele ilustra mecanismos de segurança, como autenticação e autorização, além de evidenciar a integração entre as diferentes camadas do sistema. Essa representação proporciona uma melhor compreensão da funcionalidade de sistema e do controle de chaves.
 
 # 2. Visão dos casos de uso
 ![Imagem 2024-01-12 à(s) 23 33 21_80aa049a](https://github.com/FelipeXPZ/documento-de-visao./assets/144725344/8dd756cd-7007-4754-8adb-683205c5931d)
@@ -15,11 +15,11 @@ O diagrama de controle de chaves abaixo oferece uma visão organizada e abrangen
 
 |Ator|Descrição|
 |---|---|
-|Adm(Diretor)|O administrador garantirá os dados do corpo docente, dos alunos e pode consultar os dados dos alunos.|
-|Aluno	|O aluno registra-ra sua entrada e saída e poderá consultar seus dados.|
+|Adm(Diretor)|O administrador garantirá os dados do corpo docente, dos alunos e poderá examinar os dados dos alunos.|
+|Aluno	|O aluno registra-ra sua entrada e saída e poderá examinar seus dados.|
 |Responsável	|O responsável poderá examinar os dados do aluno e recebe as informações de entrada e saída do aluno.|
-|Professor	|O professor pode consultar dados dos alunos e gerar as informações.|
-|Secretário	|O secretário pode registrar as notas e depois consultar os dados dos alunos.|
+|Professor	|O professor pode examinar dados dos alunos e gerar as informações.|
+|Secretário	|O secretário pode registrar as notas e depois examinar os dados dos alunos.|
 
 # 2.2 Descrições de Casos de Uso
 
