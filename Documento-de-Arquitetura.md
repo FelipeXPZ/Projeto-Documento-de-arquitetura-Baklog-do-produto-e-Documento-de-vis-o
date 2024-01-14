@@ -1,6 +1,6 @@
 # 1. Introdução
 Bom, agora iremos adentrar nas camadas do diagrama de controle de chaves, revelando oque há por trás da gestão perspicaz de comunicações e repassando saberes mais também ajudando para que haja a edificação de ambientes mais seguros e mais bem organizados.
-Este documento investiga os pontos de vista especificos de um diagrama, destacando seu impacto prático em situações do cotidiano. Seja para desenvolvedores, gestores de segurança ou usuários comuns, queremos tornar o conhecimento do controle de chaves e sua importância cada vez maior e mais acessível.
+Este documento investiga os pontos de vista especificos de um diagrama, destacando seu impacto prático em situações do cotidiano. Seja para desenvolvedores, gestores de segurança ou usuários comuns, queremos tornar o conhecimento do controle de chaves buscando uma importância cada vez maior e mais acessível.
 
 # 1.1 Finalidade
 Este documento aborda como principal finalidade a implementação do projeto de controle de chaves, desenvolvido na disciplina de Análise e Projeto de Sistemas, com a direção da escola IFPI - Campus Angical como principal cliente. A importância aqui é proporcionar uma visão clara e conclusiva do sistema, buscando uma implementação mais eficiente, segura e satisfatória. O objetivo final é garantir uma experiência aprimorada para todos os envolvidos no controle de chaves da escola.
