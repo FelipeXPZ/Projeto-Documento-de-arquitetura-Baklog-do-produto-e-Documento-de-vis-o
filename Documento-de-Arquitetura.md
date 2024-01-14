@@ -1,5 +1,5 @@
 # 1. Introdução
-Bom agora vamos adentrar nas camadas do diagrama de controle de chaves, revelando oque há por trás da gestão inteligente de acessos e compartilhando saberes e ajudando para que haja a edificação de ambientes mais seguros e mais bem organizados  .
+Bom, agora vamos adentrar nas camadas do diagrama de controle de chaves, revelando oque há por trás da gestão inteligente de acessos e compartilhando saberes e ajudando para que haja a edificação de ambientes mais seguros e mais bem organizados  .
 Ao longo desta narrativa, não apenas desvendaremos os aspectos técnicos do diagrama, mas também destacaremos seu impacto tangível em cenários do dia a dia. Seja você um desenvolvedor em busca de perspicácia para implementar um sistema eficiente,ou um gestor dedicado buscando à segurança do local ou um usuário final imerso nas operações diárias, esta jornada busca proporcionar uma melhor compreensão do controle de chaves e sua crescente importância.
 
 # 1.1 Finalidade
