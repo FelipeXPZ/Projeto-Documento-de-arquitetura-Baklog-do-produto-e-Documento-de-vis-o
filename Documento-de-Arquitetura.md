@@ -53,54 +53,75 @@ O objetivo deste tópico é apresentar as principais colaborações entre as cla
 # 3.2.2 Lógica das Responsabilidades
 1.Responsabilidade: Cadastrar
 
-Colaboradoras:
-Usuário
-Chave
-Autorização
-Colaborações:
-Consultar Usuário
-Consultar Chave
-Chave disponível
-Autorização da chave
+**Responsabilidade: Cadastrar**
 
-2.Responsabilidade: Em aberto
+- **Colaboradoras:**
+  - Usuário
+  - Chave
+  - Autorização da chave
 
-Colaboradoras:
-Usuário
-Chave
-Colaborações:
-Retornar Usuário
-Retornar Chave
+- **Colaborações:**
+  - Consultar Usuário
+  - Consultar Chave
+  - Verificar Disponibilidade da Chave
+  - Verificar Autorização da Chave
 
-3.Responsabilidade: Retirar
+**Responsabilidade: Em aberto**
 
-Colaboradoras:
-Usuário
-Chave
-Colaborações:
-Notificar()
-Retornar Usuário
-Retornar Chave
+- **Colaboradoras:**
+  - Usuário
+  - Chave
 
-4.Responsabilidade: Transferir
+- **Colaborações:**
+  - Retornar Usuário
+  - Retornar Chave
 
-Colaboradoras:
-Usuário
-Colaborações:
-Consultar Usuário
-Retirar()
-Cadastrar()
+**Responsabilidade: Retirar**
 
-5.Responsabilidade: Pesquisar
+- **Colaboradoras:**
+  - Usuário
+  - Chave
 
-Colaboradoras:
-Usuário
-Chave
-Colaborações:
-Consultar Chave
-Retornar Usuário
-Retornar Chave
+- **Colaborações:**
+  - Notificar Usuário
+  - Retornar Usuário
+  - Retornar Chave
 
+**Responsabilidade: Transferir**
+
+- **Colaboradoras:**
+  - Usuário
+
+- **Colaborações:**
+  - Consultar Usuário
+  - Retirar 
+  - Cadastrar Chave
+
+**Responsabilidade: Pesquisar**
+
+- **Colaboradoras:**
+  - Usuário
+  - Chave
+
+- **Colaborações:**
+  - Consultar Chave
+  - Retornar Usuário
+  - Retornar Chave
+
+**Classe: Posse**
+
+- **Responsabilidade: cadastrar()**
+  - Cadastrar a posse de uma chave para um usuário.
+  - Criar um objeto usuário com os dados fornecidos.
+  - Criar um objeto chave com os dados fornecidos.
+  - Verificar a existência do usuário.
+  - Verificar a existência da chave.
+  - Verificar a disponibilidade da chave.
+  - Verificar a autorização do usuário para a posse da chave.
+
+- **Responsabilidade: em Aberto() - Listar**
+  - Listar as posses em aberto.
+  - 
 Na lógica que foi proposta, cada compromisso está associada a um conjunto exato de colaboradoras (atores ou entidade envolvidos) e cooperações (ações ou funções realizadas). Isso ajuda a organizar e manter de maneira clara e objetiva as relações entre diferentes partes do sistema de controle de chaves, tornando mais fácil buscando entender quais entidades estão inclusas em cada uma das tarefas e quais ações são executadas para cumprir um dever específico.
 
 Classe: Posse
