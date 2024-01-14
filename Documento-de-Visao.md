@@ -49,8 +49,12 @@ Equipe de Desenvolvimento	Estudantes da Universidade de Brasília na disciplina 
 Equipe de Gestão de Projeto	Estudantes da Universidade de Brasília na disciplina de GPP.	Gerir o desenvolvimento do produto, identificando problemas e propondo soluções.
 Clientes	Centro de Ensino Médio 01 do Gama.	Fornecer informações sobre os alunos.
 
-# 3.2 Principais Necessidades da Parte Interessada
-Necessidades	Prioridade	Interesses	Solução Atual	Solução Proposta
+# Descrições da parte interessada e do usuário 
+
+# 3.2 Principais Necessidades da Parte Interessada 
+| Nome | Descrição | Responsibilidade
+| --- | --- | --- |
+Necessidades|Prioridade|Interesses	Solução Atual	Solução Proposta
 Gerenciar a vida acadêmica dos alunos.	Alta	Manter controle diário de entrada/saída e atividades acadêmicas dos alunos.	Método manual e ineficiente, usando também o aplicativo Acadêmicos Total Pais e Filhos.	Implementar um software mais confiável para gerenciar eficientemente a vida acadêmica dos alunos.
 Notificar os responsáveis.	Alta	Informar os responsáveis sobre entrada/saída e vida acadêmica dos alunos.	Responsáveis recebem SMS sobre entrada dos alunos, mas não têm acesso digital ao histórico escolar.	Enviar SMS aos responsáveis sobre entrada/saída do aluno e disponibilizar uma plataforma web para acesso ao histórico escolar do estudante.
 Acompanhar o desenvolvimento acadêmico dos alunos.	Média	Ter uma visão abrangente e atualizada do desempenho dos alunos.	Relatórios periódicos e reuniões presenciais.	Desenvolver um sistema que permita o acompanhamento contínuo e detalhado do desempenho acadêmico dos alunos.
