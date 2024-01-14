@@ -61,7 +61,7 @@ O nosso projeto tem como principal objetivo propor uma solução compreensivel, 
 # 4.1 Perspectiva do Produto
 A visão do produto centra-se na introdução de um sistema informatizado e eficiente para monitorar o acesso dos alunos, utilizando o leitor de códigos de barra já existente na instituição de ensino. Este leitor realizará a identificação de cada aluno por meio da carteirinha, permitindo que os responsáveis recebam notificações por SMS sobre os horários de entrada e saída dos alunos.
 
-Queremos criar uma solução moderna para as escolas públicas, informatizando o sistema de identificação de alunos e comunicação com os pais. Além disso, proporcionaremos aos responsáveis um histórico completo, incluindo frequência, notas e registros disciplinares, para um acompanhamento mais eficaz do desenvolvimento acadêmico e comportamental dos alunos. A ideia é oferecer uma experiência mais completa e transparente, envolvendo os responsáveis de maneira mais ativa na vida escolar de seus filhos. 
+Queremos modernizar as escolas públicas, tornando o acompanhamento acadêmico mais fácil para os pais. Vamos informatizar a identificação dos alunos e a comunicação com os responsáveis. Além disso, forneceremos um histórico completo com frequência, notas e registros disciplinares, permitindo que os pais participem ativamente na vida escolar de seus filhos. A intenção é proporcionar uma experiência mais transparente e completa para todos. 
 
 # Membros
 | Nome | Dever |  E- mail | 
