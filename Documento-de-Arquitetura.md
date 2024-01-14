@@ -120,8 +120,8 @@ O objetivo deste tópico é apresentar as principais colaborações entre as cla
   - Verificar a autorização do usuário para a posse da chave.
 
 - **Responsabilidade: em Aberto() - Listar**
-  - Listar as posses em aberto.
-  - 
+
+     
 Na lógica que foi proposta, cada compromisso está associada a um conjunto exato de colaboradoras (atores ou entidade envolvidos) e cooperações (ações ou funções realizadas). Isso ajuda a organizar e manter de maneira clara e objetiva as relações entre diferentes partes do sistema de controle de chaves, tornando mais fácil buscando entender quais entidades estão inclusas em cada uma das tarefas e quais ações são executadas para cumprir um dever específico.
 
 Classe: Posse
