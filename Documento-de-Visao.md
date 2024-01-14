@@ -53,12 +53,9 @@ O nosso projeto tem como principal objetivo propor uma solução compreensivel, 
 
 # 3.2 Principais necessidades da parte interessada
 | Necessidades | Prioridade | Interesses | Solução atual | Solução proposta
-| ------------- | ------------- | ------------- | -------------
-Necessidades Prioridade Interesses	Solução Atual	Solução Proposta
-Gerenciar a vida acadêmica dos alunos.|Alta|Manter controle diário de entrada/saída e atividades acadêmicas dos alunos.	Método manual e ineficiente, usando também o aplicativo Acadêmicos Total Pais e Filhos.|Implementar um software mais confiável para gerenciar eficientemente a vida acadêmica dos alunos.
-|Notificar os responsáveis.|Alta|Informar os responsáveis sobre entrada/saída e vida acadêmica dos alunos.|Responsáveis recebem SMS sobre entrada dos alunos, mas não têm acesso digital ao histórico escolar.	Enviar SMS aos responsáveis sobre entrada/saída do aluno e disponibilizar uma plataforma web para acesso ao histórico escolar do estudante.
-Acompanhar o desenvolvimento acadêmico dos alunos.	Média	Ter uma visão abrangente e atualizada do desempenho dos alunos.	Relatórios periódicos e reuniões presenciais.	Desenvolver um sistema que permita o acompanhamento contínuo e detalhado do desempenho acadêmico dos alunos.
-Facilitar a comunicação entre escola e responsáveis.	Alta	Estabelecer uma comunicação eficaz para questões acadêmicas e administrativas.	Comunicação principalmente por telefone e reuniões presenciais.	Implementar uma plataforma de comunicação integrada que permita a troca de informações de maneira eficiente entre a escola e os responsáveis.
+| ------------- | ------------- | ------------- | ------------- | -------------
+| Gerir a vida acadêmica dos alunos. | Alta  | Manter o controle diário de entrada/saída dos alunos e controlar as atividades acadêmicas. | Método manual e ineficiente, utilizando também o aplicativo Acadêmicos Total Pais e Filhos. | Exercer uma gerência mais eficiente da vida acadêmica dos alunos com o auxílio de um software com maior confiabilidade que o sistema anterior.
+| Notificar os responsáveis.  | Alta  | informar os responsáveis sobre entrada/saída e vida acadêmica dos alunos | Os responsáveis recebem um SMS sobre a entrada dos alunos, mas não possuem uma forma digital de acessar o histórico do alunos. | Os responsáveis receberão um SMS informando a entrada e saída do aluno, além de uma plataforma web para acessar o histórico escolar do estudante.
 
 # 4 Visão Geral do Produto
 # 4.1 Perspectiva do Produto
