@@ -39,15 +39,15 @@ O nosso projeto tem como principal objetivo propor uma solução compreensivel, 
 |Risco de perda das chaves|
 |Necessidade de arrebentar a porta em caso de perda da chave, impactando negativamente as atividades acadêmicas|
 |Possibilidade de perder tanto a chave principal quanto a reserva, aumentando a complexidade do problema|
-|Dificuldade em rastrear responsabilidades, especialmente quando outros servidores possuem cópias das chaves, o que pode resultar em situações de falta ou danos em salas sem identificação do responsável|
+|Dificuldade em rastrear responsabilidades, especialmente quando outros servidores possuem cópias das chaves, o que pode resultar em situações de falta ou danos em salas sem identificação do responsável
 
-# Descrições da Parte Interessada e do Usuário
-
-# 3.1 Perfil Resumido da Parte Interessada
-Nome	Descrição	Responsabilidade
-Equipe de Desenvolvimento	Estudantes da Universidade de Brasília na disciplina de MDS.	Desenvolver e Implementar o software.
-Equipe de Gestão de Projeto	Estudantes da Universidade de Brasília na disciplina de GPP.	Gerir o desenvolvimento do produto, identificando problemas e propondo soluções.
-Clientes	Centro de Ensino Médio 01 do Gama.	Fornecer informações sobre os alunos.
+# Descrições da parte interessada 
+# 3.1 Resumo da parte Interessada 
+| Nome | Descrição | Responsibilidade
+| --- | --- | --- |
+| Equipe de desenvolvimento| Estudantes da Universidade de Brasília da disciplina de MDS.| Desenvolver e Implementar o software.
+| Equipe de Gestão de Projeto | Estudantes da Universidade de Brasília da disciplina de GPP. | Gerir o desenvolvimento do produto identificando o problema e apontando caminhos e soluções.
+| Clientes | Centro de Ensino Médio 01 do Gama. | Disponibilizar informações sobre os alunos .
 
 # Descrições da parte interessada e do usuário 
 
