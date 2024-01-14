@@ -83,7 +83,7 @@ O objetivo deste tópico é apresentar as principais colaborações entre as cla
   - Chave
 
 - **Colaborações:**
-  - Notificar Usuário
+  - Notificar Usuário()
   - Retornar Usuário
   - Retornar Chave
 
@@ -94,8 +94,8 @@ O objetivo deste tópico é apresentar as principais colaborações entre as cla
 
 - **Colaborações:**
   - Consultar Usuário
-  - Retirar 
-  - Cadastrar Chave
+  - Retirar()
+  - Cadastrar Chave()
 
 **5.Responsabilidade: Pesquisar**
 
