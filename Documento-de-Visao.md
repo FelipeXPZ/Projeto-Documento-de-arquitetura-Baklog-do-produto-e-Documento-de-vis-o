@@ -3,12 +3,12 @@
 
 # 1.1 Objetivos
 
-Este documento tem como objetivo definir e organizar as características sobre o desenvolvimento da solução do IFPI- campus Angical.
+Este documento tem como propósito definir e organizar os seguintes aspectos sobre o desenvolvimento da solução do IFPI- campus Angical.
 
 # 1.2 Proposito
-Este projeto tem como finalidade suprir a necessidade de controle e gerenciamento da diretoria referente a vida acadêmica dos alunos do IFPI- campus Angical
+Este projeto tem como finalidade suprir a necessidade de controle e coordenação da diretoria referente a vida acadêmica dos alunos do IFPI- campus Angical
 
-busca uma solução em software para substituir um sistema previamente implementado, sendo que, deve possuir como característica fundamental a confiabilidade.
+busca uma melhor solução em software para substituir um sistema precedentemente implementado, sendo que, deve possuir como característica necessária a confiabilidade total.
 
 O software, a ser implementado, deve monitorar a presença e atividades escolares dos alunos mantendo os responsáveis informados.
 
@@ -16,8 +16,8 @@ O software, a ser implementado, deve monitorar a presença e atividades escolare
 
 | Visões  |
 | --------------|
-| Bruno devolve as chaves diariamente |
-| Autorização obrigatória para acessar chaves de laboratórios específicos |
+| Bruno pega as chaves diariamente |
+| A Autorização é obrigatória para acessar chaves de laboratórios específicos |
 | Necessidade de solicitar permissão para pegar a chave |
 | Restrição de permanência em apenas um laboratório |
 | Designação de monitores individuais para cada professor |
@@ -27,17 +27,17 @@ O software, a ser implementado, deve monitorar a presença e atividades escolare
 
 # 2.Estrutura
 # 2.1 Oportunidade de negócios
-A oportunidade de negócios reside na necessidade de redefinir a forma como o controle e a gestão da vida acadêmica dos docentes são conduzidos, especialmente nas escolas públicas. A inadequação do sistema atual é evidente devido a um controle rudimentar, muitas vezes ineficiente, que não atende plenamente às demandas das coordenações. A falta de um sistema robusto compromete a precisão e atualização dos dados, resultando em dificuldades para informar adequadamente os responsáveis e prejudicando a eficiência geral do processo acadêmico. Nesse contexto, há uma clara oportunidade de negócio para desenvolver uma solução mais moderna e eficaz que atenda às necessidades específicas das coordenações escolares.
-Nosso projeto visa solucionar este problema por meio da informatização do sistema de identificação dos alunos e notificação dos pais.
+Atualmente, a maneira como as escolas públicas gerenciam a vida acadêmica dos professores é antiquada e ineficiente. O controle é rudimentar, causando problemas na precisão e atualização dos dados, o que dificulta a comunicação eficiente com os responsáveis. Isso prejudica o processo acadêmico como um todo. Nosso projeto propõe uma solução moderna e eficaz, utilizando a informatização para identificar alunos e notificar os pais, melhorando significativamente a gestão escolar.
 
 # 2.2 Principais desafios Identificados
-Desafios 
-Falta de um sistema eficiente para facilitar a entrega de chaves aos alunos com autorização do professor
-Prática recorrente de professores e alunos levando as chaves para casa
-Risco de perda das chaves
-Necessidade de arrebentar a porta em caso de perda da chave, impactando negativamente as atividades acadêmicas
-Possibilidade de perder tanto a chave principal quanto a reserva, aumentando a complexidade do problema
-Dificuldade em rastrear responsabilidades, especialmente quando outros servidores possuem cópias das chaves, o que pode resultar em situações de falta ou danos em salas sem identificação do responsáve
+| Desafios |
+| --------------|
+|Falta de um sistema eficiente para facilitar a entrega de chaves aos alunos com autorização do professor|
+|Prática recorrente de professores e alunos levando as chaves para casa|
+|Risco de perda das chaves|
+|Necessidade de arrebentar a porta em caso de perda da chave, impactando negativamente as atividades acadêmicas|
+|Possibilidade de perder tanto a chave principal quanto a reserva, aumentando a complexidade do problema|
+|Dificuldade em rastrear responsabilidades, especialmente quando outros servidores possuem cópias das chaves, o que pode resultar em situações de falta ou danos em salas sem identificação do responsáve|
 
 # Descrições da Parte Interessada e do Usuário
 
