@@ -51,12 +51,12 @@ O nosso projeto tem como principal objetivo propor uma solução compreensivel, 
 
 # Descrições da parte interessada e do usuário 
 
-# 3.2 Principais Necessidades da Parte Interessada 
-| Nome | Descrição | Responsibilidade
-| --- | --- | --- |
-Necessidades|Prioridade|Interesses	Solução Atual	Solução Proposta
-Gerenciar a vida acadêmica dos alunos.	Alta	Manter controle diário de entrada/saída e atividades acadêmicas dos alunos.	Método manual e ineficiente, usando também o aplicativo Acadêmicos Total Pais e Filhos.	Implementar um software mais confiável para gerenciar eficientemente a vida acadêmica dos alunos.
-Notificar os responsáveis.	Alta	Informar os responsáveis sobre entrada/saída e vida acadêmica dos alunos.	Responsáveis recebem SMS sobre entrada dos alunos, mas não têm acesso digital ao histórico escolar.	Enviar SMS aos responsáveis sobre entrada/saída do aluno e disponibilizar uma plataforma web para acesso ao histórico escolar do estudante.
+# 3.2 Principais necessidades da parte interessada
+| Necessidades | Prioridade | Interesses | Solução atual | Solução proposta
+| ------------- | ------------- | ------------- | ------------- | -------------
+Necessidades Prioridade Interesses	Solução Atual	Solução Proposta
+Gerenciar a vida acadêmica dos alunos.|Alta|Manter controle diário de entrada/saída e atividades acadêmicas dos alunos.	Método manual e ineficiente, usando também o aplicativo Acadêmicos Total Pais e Filhos.|Implementar um software mais confiável para gerenciar eficientemente a vida acadêmica dos alunos.
+|Notificar os responsáveis.|Alta|Informar os responsáveis sobre entrada/saída e vida acadêmica dos alunos.|Responsáveis recebem SMS sobre entrada dos alunos, mas não têm acesso digital ao histórico escolar.	Enviar SMS aos responsáveis sobre entrada/saída do aluno e disponibilizar uma plataforma web para acesso ao histórico escolar do estudante.
 Acompanhar o desenvolvimento acadêmico dos alunos.	Média	Ter uma visão abrangente e atualizada do desempenho dos alunos.	Relatórios periódicos e reuniões presenciais.	Desenvolver um sistema que permita o acompanhamento contínuo e detalhado do desempenho acadêmico dos alunos.
 Facilitar a comunicação entre escola e responsáveis.	Alta	Estabelecer uma comunicação eficaz para questões acadêmicas e administrativas.	Comunicação principalmente por telefone e reuniões presenciais.	Implementar uma plataforma de comunicação integrada que permita a troca de informações de maneira eficiente entre a escola e os responsáveis.
 
