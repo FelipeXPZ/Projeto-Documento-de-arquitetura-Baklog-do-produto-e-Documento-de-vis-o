@@ -9,7 +9,7 @@ Este documento aborda como principal finalidade a implementação do projeto de 
 O diagrama de controle de chaves abaixo oferece uma visão organizada e abrangente do sistema,ele demostra como o sistema gerencia o acesso e a posse de chaves em um ambiente específico. Ele também ilustra o mecanismos de segurança, como autenticação e autorização, além de evidenciar a integração entre as diferentes camadas do sistema. Essa representação proporciona uma melhor compreensão da funcionalidade de sistema e do controle de chaves.
 
 # 2. Visão dos casos de uso
-![Imagem 2024-01-12 à(s) 23 33 21_80aa049a](https://github.com/FelipeXPZ/documento-de-visao./assets/144725344/8dd756cd-7007-4754-8adb-683205c5931d)
+![Diagrama sem nome (1)](https://github.com/FelipeXPZ/Projeto-aps/assets/144725344/9a081163-8500-460e-8e52-55be590d141d)
 
 # 2.1 Atores de Casos de Uso
 
