@@ -12,12 +12,14 @@ O diagrama de controle de chaves abaixo oferece uma visão organizada e abrangen
 ![Imagem 2024-01-12 à(s) 23 33 21_80aa049a](https://github.com/FelipeXPZ/documento-de-visao./assets/144725344/8dd756cd-7007-4754-8adb-683205c5931d)
 
 # 2.1 Atores de Casos de Uso
-Ator	Descrição
-Adm(Diretor)	O administrador garanti-rá os dados do corpo docente, dos alunos e pode consultar os dados dos alunos.
-Aluno	O aluno registra-ra sua entrada e saída e poderá consultar seus dados.
-Responsável	O responsável pode-rá examinar os dados do aluno e recebe as informações de entrada e saída do aluno.
-Professor	O professor pode consultar dados dos alunos e gerar as informações.
-Secretário	O secretário pode registrar as notas e depois consultar os dados dos alunos.
+
+|Ator|Descrição|
+|---|---|
+|Adm(Diretor)|O administrador garanti-rá os dados do corpo docente, dos alunos e pode consultar os dados dos alunos.|
+|Aluno	|O aluno registra-ra sua entrada e saída e poderá consultar seus dados.|
+|Responsável	|O responsável pode-rá examinar os dados do aluno e recebe as informações de entrada e saída do aluno.|
+|Professor	|O professor pode consultar dados dos alunos e gerar as informações.|
+|Secretário	|O secretário pode registrar as notas e depois consultar os dados dos alunos.|
 
 # 2.2 Descrições de Casos de Uso
 
