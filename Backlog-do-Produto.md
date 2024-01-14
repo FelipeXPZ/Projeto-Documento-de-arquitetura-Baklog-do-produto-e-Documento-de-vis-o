@@ -1,5 +1,5 @@
 # HISTÓRIA DO USUÁRIO
-| Identificador | Historia | Pontuação
+| Identificador | História | Pontuação
 | --- | --- | --- | 
 | US01 | Vigilante, como vigilante, busco manter-me informado sobre qual pessos está com a chave. | 0
 | US02 | Vigilante, como vigilante, desejo implementar disciplinas para melhor gerenciar a organização das chaves em cada bloco. | 0
