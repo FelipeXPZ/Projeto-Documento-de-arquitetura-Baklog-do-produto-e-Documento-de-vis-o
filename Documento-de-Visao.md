@@ -8,9 +8,9 @@ Este documento tem como propósito definir e organizar os seguintes aspectos sob
 # 1.2 Proposito
 Este projeto tem como finalidade suprir a necessidade de controle e coordenação da diretoria referente a vida acadêmica dos alunos do IFPI- campus Angical
 
-busca uma melhor solução em software para substituir um sistema precedentemente implementado, sendo que, deve possuir como característica necessária a confiabilidade total.
+busca uma melhor solução em software para substituir um sistema precedentemente implementado, sendo que, deve possuir como atributo necessário a confiabilidade total.
 
-O software, a ser implementado, deve monitorar a presença e atividades escolares dos alunos mantendo os responsáveis informados.
+O software, a ser implementado, deve monitorar a presença e atividades escolares dos alunos mantendo os responsáveis sempre informados.
 
 # Panoramas gerais
 
@@ -20,24 +20,26 @@ O software, a ser implementado, deve monitorar a presença e atividades escolare
 | A Autorização é obrigatória para acessar chaves de laboratórios específicos |
 | Necessidade de solicitar permissão para pegar a chave |
 | Restrição de permanência em apenas um laboratório |
-| Designação de monitores individuais para cada professor |
+| Escolha de monitores individuais para cada professor |
 | Restrição de levar chaves para casa, tanto para professores quanto para alunos |
 | Monitoramento e responsabilidade dos monitores |
 | Implementação de sistemas para facilitar a distribuição de chaves aos alunos, mediante autorização do professor |
 
 # 2.Estrutura
 # 2.1 Oportunidade de negócios
-Atualmente, a maneira como as escolas públicas gerenciam a vida acadêmica dos professores é antiquada e ineficiente. O controle é rudimentar, causando problemas na precisão e atualização dos dados, o que dificulta a comunicação eficiente com os responsáveis. Isso prejudica o processo acadêmico como um todo. Nosso projeto propõe uma solução moderna e eficaz, utilizando a informatização para identificar alunos e notificar os pais, melhorando significativamente a gestão escolar.
+Tendo em vista que atualmente, o modo como as escolas públicas gerenciam a vida acadêmica dos professores é antiquada e ineficiente. O controle é rudimentar, podendo causar problemas na precisão e atualização dos dados, o que dificulta a comunicação eficiente com os responsáveis. Isso prejudica o processo acadêmico como um todo.
+
+O nosso projeto tem como principal objetivo propor uma solução compreensivel, utilizando a informatização para identificar alunos e notificar os pais, melhorando consideravelmente a gestão escolar.
 
 # 2.2 Principais desafios Identificados
 | Desafios |
-| --------------|
+|--------------|
 |Falta de um sistema eficiente para facilitar a entrega de chaves aos alunos com autorização do professor|
 |Prática recorrente de professores e alunos levando as chaves para casa|
 |Risco de perda das chaves|
 |Necessidade de arrebentar a porta em caso de perda da chave, impactando negativamente as atividades acadêmicas|
 |Possibilidade de perder tanto a chave principal quanto a reserva, aumentando a complexidade do problema|
-|Dificuldade em rastrear responsabilidades, especialmente quando outros servidores possuem cópias das chaves, o que pode resultar em situações de falta ou danos em salas sem identificação do responsáve|
+|Dificuldade em rastrear responsabilidades, especialmente quando outros servidores possuem cópias das chaves, o que pode resultar em situações de falta ou danos em salas sem identificação do responsável|
 
 # Descrições da Parte Interessada e do Usuário
 
@@ -58,7 +60,7 @@ Facilitar a comunicação entre escola e responsáveis.	Alta	Estabelecer uma com
 # 4.1 Perspectiva do Produto
 A visão do produto centra-se na introdução de um sistema informatizado e eficiente para monitorar o acesso dos alunos, utilizando o leitor de códigos de barra já existente na instituição de ensino. Este leitor realizará a identificação de cada aluno por meio da carteirinha, permitindo que os responsáveis recebam notificações por SMS sobre os horários de entrada e saída dos alunos.
 
-Além disso, cada responsável terá acesso a um histórico escolar abrangente do aluno. Este histórico incluirá informações cruciais, como o número de faltas, desempenho acadêmico no boletim escolar e registros de advertências ou suspensões. Dessa forma, a proposta vai além do simples controle de acesso, oferecendo uma solução abrangente para que os responsáveis possam acompanhar de perto o desenvolvimento acadêmico e comportamental de seus filhos. Essa abordagem visa fornecer uma experiência mais completa e transparente no envolvimento dos responsáveis na vida escolar dos alunos. 
+Queremos criar uma solução moderna para as escolas públicas, informatizando o sistema de identificação de alunos e comunicação com os pais. Além disso, proporcionaremos aos responsáveis um histórico completo, incluindo frequência, notas e registros disciplinares, para um acompanhamento mais eficaz do desenvolvimento acadêmico e comportamental dos alunos. A ideia é oferecer uma experiência mais completa e transparente, envolvendo os responsáveis de maneira mais ativa na vida escolar de seus filhos. 
 
 # Membros
 | Nome | Dever |  E- mail | 
