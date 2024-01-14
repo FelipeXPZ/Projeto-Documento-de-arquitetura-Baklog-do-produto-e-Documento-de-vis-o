@@ -43,7 +43,7 @@ O diagrama de controle de chaves abaixo oferece uma visão organizada e abrangen
 # 3.visão
 
 # 3.1 Classe
-![Diagrama  (1)](https://github.com/FelipeXPZ/Projeto-aps/assets/144725344/97ad3c4f-5f06-4cb3-9923-e1f64ede1233)
+![Diagrama  (3)](https://github.com/FelipeXPZ/Projeto-aps/assets/144725344/1a6f2fe8-80cb-493d-a433-d55828fd9e14)
 
 # 3.2 Colaboração entre Classes
 O objetivo deste tópico é apresentar as principais colaborações entre as classes para executar suas funções dentro do sistema.
