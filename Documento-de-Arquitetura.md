@@ -20,21 +20,23 @@ Professor	O professor pode consultar dados dos alunos e gerar as informações.
 Secretário	O secretário pode registrar as notas e depois consultar os dados dos alunos.
 
 # 2.2 Descrições de Casos de Uso
-Caso de Uso	Descrição
-UC01 - Manter Alunos	Permite criar, alterar ou apagar um aluno no sistema.
-UC02 - Registrar Advertência	Registra uma nova advertência para um aluno.
-UC03 - Registrar Suspensões	Registra uma nova suspensão para um aluno.
-UC04 - Registrar Notificação	Relata a notificação para aluno.
-UC05 - Manter Responsáveis	Permite criar, modificar ou eliminar um responsável de um aluno.
-UC06 - Consultar Aluno	Realiza a busca pelo no histórico de um aluno.
-UC07 - Visualizar Número de Faltas	Acessa o número de faltas de um determinado aluno.
-UC08 - Visualizar Boletim  Acessa o boletim de um determinado aluno.
-UC09 - Visualizar Advertências ou Suspensões  Acessa o número de advertências/suspensões de um determinado aluno.
-UC10 - Dar Nota	Aderir as notas aos alunos.
-UC11 - Registrar Entrada/Saída	Registra a hora de entrada ou saída do aluno.
-UC12 - Notificar os Responsáveis	Envia SMS aos responsáveis após a entrada/saída do aluno.
-UC13 - Manter Corpo Docente	Permite criar, alterar ou excluir um membro do corpo docente.
-UC14 - Fazer Login	Ter acesso as aplicações do sistema, autenticando-se.
+
+|Caso de Uso|Descrição|
+|---|---|
+| UC01 - Manter Alunos	Permite criar, alterar ou apagar um aluno no sistema.|
+| UC02 - Registrar Advertência	Registra uma nova advertência para um aluno.|
+| UC03 - Registrar Suspensões	Registra uma nova suspensão para um aluno.|
+| UC04 - Registrar Notificação	Relata a notificação para aluno.|
+| UC05 - Manter Responsáveis	Permite criar, modificar ou eliminar um responsável de um aluno.|
+| UC06 - Consultar Aluno	Realiza a busca pelo no histórico de um aluno.|
+| UC07 - Visualizar Número de Faltas	Acessa o número de faltas de um determinado aluno.|
+| UC08 - Visualizar Boletim  Acessa o boletim de um determinado aluno.|
+| UC09 - Visualizar Advertências ou Suspensões  Acessa o número de advertências/suspensões de um determinado aluno.|
+| UC10 - Dar Nota	Aderir as notas aos alunos.|
+| UC11 - Registrar Entrada/Saída	Registra a hora de entrada ou saída do aluno.|
+| UC12 - Notificar os Responsáveis	Envia SMS aos responsáveis após a entrada/saída do aluno.|
+| UC13 - Manter Corpo Docente	Permite criar, alterar ou excluir um membro do corpo docente.|
+| UC14 - Fazer Login	Ter acesso as aplicações do sistema, autenticando-se.|
 
 # 3.visão
 
