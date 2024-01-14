@@ -15,9 +15,9 @@ O diagrama de controle de chaves abaixo oferece uma visão organizada e abrangen
 
 |Ator|Descrição|
 |---|---|
-|Adm(Diretor)|O administrador garanti-rá os dados do corpo docente, dos alunos e pode consultar os dados dos alunos.|
+|Adm(Diretor)|O administrador garantirá os dados do corpo docente, dos alunos e pode consultar os dados dos alunos.|
 |Aluno	|O aluno registra-ra sua entrada e saída e poderá consultar seus dados.|
-|Responsável	|O responsável pode-rá examinar os dados do aluno e recebe as informações de entrada e saída do aluno.|
+|Responsável	|O responsável poderá examinar os dados do aluno e recebe as informações de entrada e saída do aluno.|
 |Professor	|O professor pode consultar dados dos alunos e gerar as informações.|
 |Secretário	|O secretário pode registrar as notas e depois consultar os dados dos alunos.|
 
