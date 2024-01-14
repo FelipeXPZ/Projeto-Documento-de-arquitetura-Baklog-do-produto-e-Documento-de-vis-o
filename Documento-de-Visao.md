@@ -53,7 +53,7 @@ O nosso projeto tem como principal objetivo propor uma solução compreensivel, 
 
 # 3.2 Principais necessidades da parte interessada
 | Necessidades | Prioridade | Interesses | Solução atual | Solução proposta
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | -------------
 Necessidades Prioridade Interesses	Solução Atual	Solução Proposta
 Gerenciar a vida acadêmica dos alunos.|Alta|Manter controle diário de entrada/saída e atividades acadêmicas dos alunos.	Método manual e ineficiente, usando também o aplicativo Acadêmicos Total Pais e Filhos.|Implementar um software mais confiável para gerenciar eficientemente a vida acadêmica dos alunos.
 |Notificar os responsáveis.|Alta|Informar os responsáveis sobre entrada/saída e vida acadêmica dos alunos.|Responsáveis recebem SMS sobre entrada dos alunos, mas não têm acesso digital ao histórico escolar.	Enviar SMS aos responsáveis sobre entrada/saída do aluno e disponibilizar uma plataforma web para acesso ao histórico escolar do estudante.
