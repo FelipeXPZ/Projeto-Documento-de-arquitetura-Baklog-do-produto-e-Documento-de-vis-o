@@ -51,7 +51,6 @@ O objetivo deste tópico é apresentar as principais colaborações entre as cla
 ![286594612-2d4d9617-0195-4c72-a28e-b07528792c0f](https://github.com/FelipeXPZ/documento-de-visao./assets/144725344/8ecc802d-1b7e-4dd7-b593-865116022409)
 
 # 3.2.2 Lógica das Responsabilidades
-1. Responsabilidade: Cadastrar
 
 - **1.Responsabilidade: Cadastrar**
 
