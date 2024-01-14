@@ -17,7 +17,7 @@ O software, a ser implementado, deve monitorar a presença e atividades escolare
 | Visões  |
 | --------------|
 | Bruno pega as chaves diariamente |
-| A Autorização é obrigatória para acessar chaves de laboratórios específicos |
+| A autorização é obrigatória para acessar chaves de laboratórios específicos |
 | Necessidade de solicitar permissão para pegar a chave |
 | Restrição de permanência em apenas um laboratório |
 | Escolha de monitores individuais para cada professor |
