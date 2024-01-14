@@ -3,7 +3,7 @@
 | --- | --- | --- | 
 | US01 | Como vigilante, busco manter-me informado sobre qual pessos está com a chave. | 0
 | US02 | Como vigilante, desejo implementar disciplinas para melhor gerenciar a organização das chaves em cada bloco. | 0
-| US03 | Funcionário da escola, quero a capacidade de consultar informações sobre alunos para visualizar o controle de chaves. | 0
+| US03 | Fucionário, eu como funcionário da escola, quero a capacidade de consultar informações sobre alunos para visualizar o controle de chaves. | 0
 | US04 | Diretor, desejo manter os professores informados para uma administração mais eficaz das chaves. | 0
 | US05 | Aluno, eu como aluno prentendo obter uma tarera de monitor que eu tenha o acesso a posse das chaves. | 0
 | US06 | Servidor, desejo obter informações sobre a troca de usos das chaves. | 0
